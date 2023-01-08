@@ -10,5 +10,4 @@
 //     getPosition() {
 //         return `${this.firstName} is the ${this.position}`;
 //     }
-
 // }

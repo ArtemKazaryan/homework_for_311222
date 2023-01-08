@@ -13,6 +13,7 @@
 //       return `${this.firstName} ${this.lastName}`;
 //     }
   
+
 //     getInitials() {
 //       return this.firstName[0] + this.lastName[0];
 //     }

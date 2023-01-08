@@ -11,10 +11,12 @@ name.addEventListener("keyup", () => {
   let nameVariations = new NameVariations(name.value);
   
   // the try/catch statements are added to allow you and test
+
   // инструкции try / catch добавлены, чтобы позволить вам и тестировать
 
 
   // your code even before you have implemented all the instance methods
+  
   // ваш код еще до того, как вы внедрили все методы экземпляра
 
   try {
